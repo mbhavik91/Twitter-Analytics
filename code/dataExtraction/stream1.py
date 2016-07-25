@@ -3,10 +3,10 @@ from tweepy import OAuthHandler
 from tweepy.streaming import StreamListener
 import json,pprint
 
-ckey = 'wUI0mzhlWFDsodBjLVfANPOL3'
-csecret = 'Y4bHDHf9Zh4rnPke9fIAnKlWDfqw9E2w5cAXu9gtvcK3KA822N'
-atoken = '2921362476-PwwnNGpKST9KLIYCe1tTPNIqYyHoK3WCrhx3klf'
-asecret = 'ur4pmU8m7dnMx2uwdCqSGnTJ2U5vUyN7a4yuKFF948fKT'
+ckey = 'wUI0mzhlWFDsodBjLVfANPOL2'
+csecret = 'Y4bHDHf9Zh4rnPke9fIAnKWDfqw9E2w5cAXu9gtvcK3KA822N'
+atoken = '2921362476-PwwnNGpKST9LIYCe1tTPNIqYyHoK3WCrhx3klf'
+asecret = 'ur4pmU8m7dnMx2uwdCqSnTJ2U5vUyN7a4yuKFF948fKT'
 
 obj = ''
 
