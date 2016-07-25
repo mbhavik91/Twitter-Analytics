@@ -16,7 +16,7 @@ auth.set_access_token(atoken,asecret)
 api = tweepy.API(auth) 
 #search_tweets = api.search(screen_name='@Ferrari')
 #timeline = user.timeline()
-query = '@BMW OR #BMW OR @RollsRoyce OR #RollsRoyce OR #Porsche OR #Porsche \
+query = '@BMW OR #BMW OR @RollsRoyce OR #RollsRoyce OR #Porsche OR #Porsche OR @Jaguar \
 		OR @Mercedes OR #Mercedes OR @Jaguar OR #Jaguar OR @Maserati OR \
 		#Maserati OR @Bentley OR #Bentley OR @Audi OR #Audi OR @Lexus OR \
 		#Lexus'
